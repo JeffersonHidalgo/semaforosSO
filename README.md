@@ -14,5 +14,7 @@ Fuera de la definición de la clase Hilo, se define la variable "d" con un valor
 Video explicativo.
 
 Python: https://youtu.be/6Ej4hOZdKBk
+
 Barreras usando hilos: https://youtu.be/h7EZS91UjUw
+
 C: 
